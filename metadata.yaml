@@ -1,11 +1,14 @@
 _repo: Campfire-Girls-Lake-Camp-or-Searching-for-New-Adventures_58712
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Baden, Frances Henshaw
     deathdate: 1911
     gutenberg_agent_id: '6089'
     url: http://www.gutenberg.org/2009/agents/6089
+covers:
+- cover_type: archival
+  image_path: 58712-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Benson, Irene Elliott
@@ -19,6 +22,8 @@ description:
   of a Summer Vacation."'
 - 'Irene Elliott Benson''s contribution to this work is unclear, though she is one
   of the authors who wrote books in the Campfire Girls series.  Wikipedia: https://en.wikipedia.org/wiki/Camp_Fire_Girls_(novel_series)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58712#Campfire-Girls-Lake-Camp-or-Searching-for-New-Adventures
 gutenberg_issued: '2019-01-17'
 gutenberg_type: Text
 identifiers:
